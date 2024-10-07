@@ -1,0 +1,5 @@
+sow corn
+harvest corn
+grind corn
+catch shrimp
+make tacos
